@@ -30,6 +30,29 @@ Before you begin, ensure you have the following installed:
 ### Environment Setup
 
 1. **Clone the repository**
+```bash
+git clone https://github.com/priyanshuraj21030/event-calendar.git
+cd event-calendar
+```
+
+2. **Install Dependencies**
+```bash
+npm i 
+# or
+yarn install
+```
+
+3. **Start Development Server**
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+The application will be running at `http://localhost:5173`
+
+You can now open your browser and visit `http://localhost:5173` to see the application running!
 
 ```bash
 git clone https://github.com/priyanshuraj21030/event-calendar.git
+#
